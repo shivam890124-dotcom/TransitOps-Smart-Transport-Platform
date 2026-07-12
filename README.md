@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# TransitOps – Smart Transport Operations Platform
 
-# Run and deploy your AI Studio app
+## Overview
+TransitOps is a smart transport operations platform built using the MERN stack and TypeScript.
 
-This contains everything you need to run your app locally.
+## Features
+- Driver Management
+- Vehicle Management
+- Trip Management
+- Maintenance Tracking
+- Authentication
+- Dashboard
+- REST APIs
 
-View your app in AI Studio: https://ai.studio/apps/e9e0a435-dcf1-4e85-a3b9-dac3b99a6595
+## Tech Stack
+- React
+- TypeScript
+- Express.js
+- Node.js
+- MongoDB
+- Vite
 
-## Run Locally
+## Installation
 
-**Prerequisites:**  Node.js
+```bash
+npm install
+npm run dev
+```
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Team
+Odoo Hackathon 2026
